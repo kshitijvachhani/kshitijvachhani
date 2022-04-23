@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kshitijvachhani
-- 👀 I’m interested in ... Machine Learning, Cyber Forensics,Threat Analysis,Threat and Vulnerability.
+- 👀 I’m interested in ... Machine Learning, Cyber Forensics,Threat Analysis,Threat and Vulnerability, Data Analytics science.
 - 🌱 I’m currently learning ... Machine Learning, Cyber Forensics,Threat Analysis,Threat and Vulnerability.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kshitijvachhani@gmail.com
